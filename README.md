@@ -17,7 +17,7 @@ The Hurdle Race - [Problem](https://www.hackerrank.com/challenges/the-hurdle-rac
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## Contact
-Tiffany Arellano <br />
-[Github](https://github.com/yirano) <br />
-[LinkedIn](https://www.linkedin.com/in/yt-arellano) <br />
-[Twitter](https://twitter.com/yiirano)
+Tiffany Arellano 
+[ [Github](https://github.com/yirano) |
+[LinkedIn](https://www.linkedin.com/in/yt-arellano) |
+[Twitter](https://twitter.com/yiirano) ]
