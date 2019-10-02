@@ -25,6 +25,9 @@ Repeated String - [Problem](https://www.hackerrank.com/challenges/repeated-strin
 
 The Hurdle Race - [Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | [Solution](https://github.com/yirano/algorithms-data-structures/blob/master/HackerRank/Javascript/the-hurdle-race.js) <br />
 
+The Time in Words - [Problem](https://www.hackerrank.com/challenges/the-time-in-words/problem) | [Solution](https://github.com/yirano/algorithms-data-structures/blob/master/HackerRank/Javascript/the-time-in-words.js)
+<br />
+
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
