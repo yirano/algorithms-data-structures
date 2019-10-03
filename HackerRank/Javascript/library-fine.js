@@ -1,31 +1,35 @@
 function libraryFine(d1, m1, y1, d2, m2, y2) {
-  if (y1 == y2 || y1 < y2) {
-    if (m1 == m2 || m1 < m2) {
-      if (d1 == d2 || d1 < d2) {
-        console.log("day diff found");
-        total = 0;
-      } else {
-        total = (d1 - d2) * 15;
-      }
-    } else {
-      console.log("mo diff found");
-      total = (m1 - m2) * 500;
-    }
+  let fine = 0;
+  let ans = 0;
+
+  if (y1 > y2) {
+    ans = 10000 * (y1 - y2);
+    console.log('year');
   } else {
-    console.log("year diff found");
-    total = (y2 - y1) * 10000;
+    if (m1 > m2) {
+      ans = 500 * (m1 - m2);
+      console.log('month');
+    } else if (d1 > d2 && m1 >= m2) {
+      ans = 15 * (d1 - d2);
+      console.log('day', ans);
+    } else {
+      ans = 0;
+    }
+  }
+  if (ans < 0) {
+    ans = 0;
   }
 
-  console.log(total);
-  return total;
+  console.log(ans);
+  return ans;
 }
 
-let d1 = 12;
-let m1 = 31;
-let y1 = 2015;
+let d1 = 2;
+let m1 = 8;
+let y1 = 2014;
 
 let d2 = 1;
 let m2 = 1;
-let y2 = 2016;
+let y2 = 2015;
 
 libraryFine(d1, m1, y1, d2, m2, y2);

@@ -1,4 +1,3 @@
-// Complete the timeInWords function below.
 function timeInWords(h, m) {
   let hour;
   let min;
