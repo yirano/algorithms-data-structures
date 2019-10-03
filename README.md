@@ -7,6 +7,8 @@ Angry Professor - [Problem](https://www.hackerrank.com/challenges/angry-professo
 
 Beautiful Triplets - [Problem](https://www.hackerrank.com/challenges/beautiful-triplets/problem) | [Solution](https://github.com/yirano/algorithms-data-structures/blob/solutions/HackerRank/Javascript/beautiful-triplets.js) <br />
 
+Chocolate Feast - [Problem](https://www.hackerrank.com/challenges/chocolate-feast/problem) | [Solution](https://github.com/yirano/algorithms-data-structures/blob/solutions/HackerRank/Javascript/chocolate-feast.js) <br />
+
 Drawing Book - [Problem](https://www.hackerrank.com/challenges/drawing-book/problem) | [Solution](https://github.com/yirano/algorithms-data-structures/blob/master/HackerRank/Javascript/drawing-book.js) <br />
 
 Electronics Shop - [Problem](https://www.hackerrank.com/challenges/electronics-shop/problem) | [Solution](https://github.com/yirano/algorithms-data-structures/blob/master/HackerRank/Javascript/electronics-shop.js) <br />
