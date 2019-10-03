@@ -1,4 +1,3 @@
-// Complete the chocolateFeast function below.
 function chocolateFeast(n, c, m) {
   let ct = 0;
   let wr = 0;
@@ -6,10 +5,10 @@ function chocolateFeast(n, c, m) {
   wr = ct = n / c;
 
   while (wr >= m) {
-    let tempCt = Math.floor(wr / m)
-    ct += tempCt
-    wr %= m
-    wr += tempCt
+    let tempCt = Math.floor(wr / m);
+    ct += tempCt;
+    wr %= m;
+    wr += tempCt;
   }
 
   return Math.floor(ct);
