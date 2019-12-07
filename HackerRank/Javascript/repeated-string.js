@@ -1,40 +1,29 @@
 function repeatedString(s, n) {
+	let base = Math.ceil(n / s.length);
+	s = s.split('');
+	let repeat = s.length * base;
+	let subtract = n - repeat;
 
-  let test = s.indexOf('a');
-  console.log(test);
-  let indArr = [];
-  for (let i = 0; i < s.length; i++) {
+	let found = s.filter((x) => x == 'a'); // a's found in s argument
+	let total = found.length * base; // total a's found overall with overflow
+	let remove = s.slice(subtract).filter((x) => x == 'a'); // overflow a's to remove
 
-  }
+	// if the difference to remove is 0
+	if (subtract == 0) {
+		total = total;
+	} else {
+		total -= remove.length;
+	}
 
-
-  /** 
-  * let ans;
-  if (s.length == 1 && s == 'a') {
-    ans = n;
-  } else if (s.length == 1 && s != 'a') {
-    ans = 0;
-  } else {
-
-    let sArr = s.split('');
-    let base = Math.floor(n / s.length);
-    let rpt = s.repeat(base);
-    let diff = n - rpt.length;
-    for (let i = 0; i < diff; i++) {
-      rpt = rpt.concat(sArr[i]);
-    }
-    rpt = rpt.split("");
-    ans = rpt.filter((x) => x == 'a').length;
-
-  }
-  console.log(ans);
-  return ans; 
-  */
-
+	console.log('total', total);
+	return total;
 }
 
+repeatedString(
+	'udjlitpopjhipmwgvggazhuzvcmzhulowmveqyktlakdufzcefrxufssqdslyfuiahtzjjdeaxqeiarcjpponoclynbtraaawrps',
+	872514961806
+);
 
-let s = 'kmretasscityylpdhuwjirnqimlkcgxubxmsxpypgzxtenweirknjtasxtvxemtwxuarabssvqdnktqadhyktagjxoanknhgilnm';
-let n = 736778906400;
+repeatedString('aba', 10);
 
-repeatedString(s, n);
+repeatedString('a', 100000);
