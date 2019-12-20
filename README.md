@@ -21,6 +21,8 @@ Equalize the Array - [Problem](https://www.hackerrank.com/challenges/equality-in
 
 Find Digits - [Problem](https://www.hackerrank.com/challenges/find-digits/problem) | [Solution](https://github.com/yirano/algorithms-data-structures/blob/master/HackerRank/Javascript/find-digits.js) <br />
 
+Jumping on Clouds - [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | [Solution](https://github.com/yirano/algorithms-data-structures/blob/solutions/HackerRank/Javascript/jumping-on-clouds.js)<br />
+
 Library Fine - [Problem](https://www.hackerrank.com/challenges/library-fine/problem) | [Solution](https://github.com/yirano/algorithms-data-structures/blob/master/HackerRank/Javascript/library-fine.js) <br />
 
 Picking Numbers - [Problem](https://www.hackerrank.com/challenges/picking-numbers/problem) | [Solution](https://github.com/yirano/algorithms-data-structures/blob/master/HackerRank/Javascript/picking-numbers.js) <br />
