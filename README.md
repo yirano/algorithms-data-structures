@@ -9,6 +9,8 @@ Beautiful Triplets - [Problem](https://www.hackerrank.com/challenges/beautiful-t
 
 Chocolate Feast - [Problem](https://www.hackerrank.com/challenges/chocolate-feast/problem) | [Solution](https://github.com/yirano/algorithms-data-structures/blob/solutions/HackerRank/Javascript/chocolate-feast.js) <br />
 
+Counting Valleys - [Problem](https://www.hackerrank.com/challenges/counting-valleys/problem) | [Solution](https://github.com/yirano/algorithms-data-structures/blob/solutions/HackerRank/Javascript/counting-valleys.js) <br />
+
 Drawing Book - [Problem](https://www.hackerrank.com/challenges/drawing-book/problem) | [Solution](https://github.com/yirano/algorithms-data-structures/blob/master/HackerRank/Javascript/drawing-book.js) <br />
 
 Electronics Shop - [Problem](https://www.hackerrank.com/challenges/electronics-shop/problem) | [Solution](https://github.com/yirano/algorithms-data-structures/blob/master/HackerRank/Javascript/electronics-shop.js) <br />
