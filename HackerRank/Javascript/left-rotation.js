@@ -1,7 +1,6 @@
 function rotLeft(a, d) {
-  let arr = [1, ...a];
+	let move = a.splice(0, d);
+	a = a.concat(move);
 
-  console.log(arr);
+	return a;
 }
-
-rotLeft(5, 4);
