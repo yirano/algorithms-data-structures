@@ -23,6 +23,8 @@ Find Digits - [Problem](https://www.hackerrank.com/challenges/find-digits/proble
 
 Jumping on Clouds - [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | [Solution](https://github.com/yirano/algorithms-data-structures/blob/solutions/HackerRank/Javascript/jumping-on-clouds.js)<br />
 
+Left Rotation - [Problem](https://www.hackerrank.com/challenges/array-left-rotation/problem) | [Solution](https://github.com/yirano/algorithms-data-structures/blob/solutions/HackerRank/Javascript/left-rotation.js)
+
 Library Fine - [Problem](https://www.hackerrank.com/challenges/library-fine/problem) | [Solution](https://github.com/yirano/algorithms-data-structures/blob/master/HackerRank/Javascript/library-fine.js) <br />
 
 Picking Numbers - [Problem](https://www.hackerrank.com/challenges/picking-numbers/problem) | [Solution](https://github.com/yirano/algorithms-data-structures/blob/master/HackerRank/Javascript/picking-numbers.js) <br />
